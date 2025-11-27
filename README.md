@@ -1,7 +1,13 @@
 # About
-Jr. Developer located in somewhere, Earth.  
-Most experience with C# coding Unity Games, as well as less experience with Java, HTML/JS/CSS, Python, C, Kotlin and shell scripting.  
-Aspiring to learn (pixel) art to be able to sprite assets.
+<h2 align="center">Jr. Developer located in somewhere, Earth.</h2>  
+<p align="center">Most experience with C# coding Unity Games, as well as less experience with Java, HTML/JS/CSS, Python, C, Kotlin and shell scripting.  </p>  
+<p align="center">Aspiring to learn (pixel) art to be able to sprite assets.</p>  
+
+
+</br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=papyruslikemelon&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 <!--
 **PapyrusLikeMelon/PapyrusLikeMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
