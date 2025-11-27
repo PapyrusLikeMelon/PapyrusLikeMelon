@@ -1,5 +1,7 @@
-## Hi there  👋
-
+# About
+Jr. Developer located in somewhere, Earth.  
+Most experience with C# coding Unity Games, as well as less experience with Java, HTML/JS/CSS, Python, C, Kotlin and shell scripting.  
+Aspiring to learn (pixel) art to be able to sprite assets.
 <!--
 **PapyrusLikeMelon/PapyrusLikeMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
