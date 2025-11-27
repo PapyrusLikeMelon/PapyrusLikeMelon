@@ -1,4 +1,3 @@
-# About
 <h2 align="center">Jr. Developer located in somewhere, Earth.</h2>  
 <p align="center">Most experience with C# coding Unity Games, as well as less experience with Java, HTML/JS/CSS, Python, C, Kotlin and shell scripting.  </p>  
 <p align="center">Aspiring to learn (pixel) art to be able to sprite assets.</p>  
